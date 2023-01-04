@@ -19,12 +19,11 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
 - Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
-- Um dispositivo ou emulador iOS ou Android
 
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gobarber-2.0 gobarber
+  $ git clone https://github.com/Willian-ThiagoFZ/GoBarber.git
 
   # Entrar no diretório:
   $ cd gobarber
@@ -56,17 +55,3 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
   # Rodar a aplicação:
   $ yarn start
 ```
-
-## :iphone: Iniciando mobile
-```bash
-  # Entrar no diretório do mobile:
-  $ cd mobile
-
-  # Instalar as dependências:
-  $ yarn
-
-  # Rodar a aplicação:
-  $ yarn ios ou yarn android 
-```
-
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
