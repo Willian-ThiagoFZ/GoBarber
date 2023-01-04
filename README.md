@@ -1,5 +1,3 @@
-# GoBarber
- 
 <h1 align="center">
     <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gobarber_19xmN2BUU.svg" width="250px" />
 </h1>
